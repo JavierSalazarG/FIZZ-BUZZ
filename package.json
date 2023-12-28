@@ -1,0 +1,22 @@
+{
+  "name": "fizz-buzz",
+  "version": "1.0.0",
+  "description": "imprimir fizz en multiplos de 3, buzz en multiplos de 5 y fizzbuzz en multiplos de 3 y 5 a la vez ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JavierSalazarG/FIZZ-BUZZ.git"
+  },
+  "author": "javi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavierSalazarG/FIZZ-BUZZ/issues"
+  },
+  "homepage": "https://github.com/JavierSalazarG/FIZZ-BUZZ#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
